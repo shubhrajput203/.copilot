@@ -1,0 +1,7 @@
+2026-11-23T13:34:02.130Z [INFO] Native runtime logging initialized
+2026-11-23T13:34:02.152Z [WARNING] [rust:standalone_host::standalone::transport] Unable to locate runtime-bundled skills beside the native runtime
+2026-11-23T13:34:02.183Z [WARNING] [rust:rt_git] git root lookup failed; reporting no result {"start_path":"C:\\Users\\shubh\\AppData\\Local\\Programs\\Microsoft VS Code Insiders","resolve_worktrees":true,"error":"Failed to spawn git: program not found"}
+2026-11-23T13:34:02.184Z [WARNING] [rust:rt_git] git root lookup failed; reporting no result {"start_path":"C:\\Users\\shubh\\AppData\\Local\\Programs\\Microsoft VS Code Insiders","resolve_worktrees":false,"error":"Failed to spawn git: program not found"}
+2026-11-23T13:34:02.219Z [WARNING] [rust:rt_git] git root lookup failed; reporting no result {"start_path":"C:\\Users\\shubh\\AppData\\Local\\Programs\\Microsoft VS Code Insiders","resolve_worktrees":true,"error":"Failed to spawn git: program not found"}
+2026-11-23T13:34:02.219Z [WARNING] [rust:rt_git] git root lookup failed; reporting no result {"start_path":"C:\\Users\\shubh\\AppData\\Local\\Programs\\Microsoft VS Code Insiders","resolve_worktrees":false,"error":"Failed to spawn git: program not found"}
+2026-11-23T14:16:55.997Z [WARNING] [rust:standalone_host::standalone] Standalone JSON-RPC one-way host call failed {"error":"Standalone server does not support host call 'lifecycle_server_shutdown_finalize'"}
